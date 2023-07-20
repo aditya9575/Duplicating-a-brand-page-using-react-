@@ -1,2 +1,20 @@
 # Duplicating-a-brand-page-using-react-
 This project involves creating a static brand page from a figma design using react js 
+
+
+[TO VIEW THE SOURCE CODE GO TO THE MASTER BRANCH]
+
+
+To Run the project -> 
+
+1) Clone this project
+2) Open terminal with your code editor .
+3) Run this command -> npm i
+4) When the node modules are installed -> Run command -> npm run start
+
+                                             THIS  WILL RUN YOUR PROJECT
+
+
+                            ***      THIS WILL BE THE FINA OUTPUT OF THE PROJECT      ***
+   (https://github.com/aditya9575/Duplicating-a-brand-page-using-react-/assets/101061456/71695c7c-d2a4-4fb1-8d7c-c0679bc5a187)
+
