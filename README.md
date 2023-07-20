@@ -1,6 +1,6 @@
 To Run this project -> 
 
-1) Clone this project
+1) Clone the project
 2) Open terminal with your code editor .
 3) Run this command -> npm i
 4) When the node modules are installed -> Run command -> npm run start
