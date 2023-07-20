@@ -15,6 +15,6 @@ To Run the project ->
                                              THIS  WILL RUN YOUR PROJECT
 
 
-                            ***      THIS WILL BE THE FINA OUTPUT OF THE PROJECT      ***
+                      ***      THIS BELOW LINK WILL SHOW THE FINAL OUTPUT OF THE PROJECT      ***
    (https://github.com/aditya9575/Duplicating-a-brand-page-using-react-/assets/101061456/71695c7c-d2a4-4fb1-8d7c-c0679bc5a187)
 
